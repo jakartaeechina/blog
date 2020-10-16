@@ -1,2 +1,1 @@
-# 博客
-通过提交issue来生成博客内容，会在网站的博客频道显示
+trying to collabrate with blogs on github and automatically update them on the website
